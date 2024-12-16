@@ -55,7 +55,7 @@ class _OrdersPageState extends State<OrdersPage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          group.time.toLocal().toString(), // Преобразуем в локальное время
+                          group.time.toString(), // Преобразуем в локальное время
                           style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                         ),
                         SizedBox(height: 8.0),
