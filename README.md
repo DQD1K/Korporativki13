@@ -20,5 +20,5 @@
 А на странице аккаунта появилась кнопка для просмотра истории заказов
 
 ![image](https://github.com/user-attachments/assets/68b9d8d0-04d4-42ae-a763-0e862f5628bf)
-![image](https://github.com/user-attachments/assets/9b34e73e-3c2b-49e6-b311-b1fe92e87da7)
+![image](https://github.com/user-attachments/assets/0034c231-97e6-4982-ada9-1d32ef89c289)
 ![image](https://github.com/user-attachments/assets/4b24f0e7-8ece-42c9-b7ae-ba424316c9e6)
